@@ -1,0 +1,21 @@
+integration/rust/tests/integration/notify.rs
+  s_53a6727f1964b3::t_2f065afd1aa868 167-192
+pgdog/src/backend/pub_sub/listener.rs
+  s_53a6727f1964b3::t_aa4b7321ed637c 555-581
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "96e44d4d5304070f6fa06ccda680c8ed3ad87492",
+  "prompts": {},
+  "sessions": {
+    "s_53a6727f1964b3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "917e4d83-6a6d-4354-bf05-8d0e4876720d",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "mhenrixon <mikael@mhenrixon.com>"
+    }
+  }
+}
